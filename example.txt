@@ -1,1 +1,1 @@
-a lua é branca
+Ola classe! Aqui eh a aula 2 Sobre arquivos
