@@ -1,7 +1,5 @@
-"""
-Exercicio 8.2 do livro:
-Comece definindo a classe Teste e depois criando duas instâncias de Teste
-"""
+# Exercicio 8.2 do livro:
+# Comece definindo a classe Teste e depois criando duas instâncias de Teste
 
 
 class Teste:

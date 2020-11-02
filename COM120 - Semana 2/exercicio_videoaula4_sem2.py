@@ -67,3 +67,4 @@ print(geren1)
 print(' ')
 print(f'Valor do salário do(a) gerente, com o bônus: {geren1.bonusSalary(6):.2f}')
 
+

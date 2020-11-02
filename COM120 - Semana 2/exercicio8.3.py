@@ -1,15 +1,13 @@
-"""
-Exercício 8.3 do livro:
-Implemente a classe Retângulo, que representa retângulos.
-A classe deverá implementar estes métodos:
-
-•setTamanho(largura, comprimento): aceita dois valores numéricos
-como entrada e define o comprimento e largura do retângulo.
-
-•perímetro(): retorna o perímetro do retângulo.
-
-•área(): retorna a área do retângulo.
-"""
+# Exercício 8.3 do livro:
+# Implemente a classe Retângulo, que representa retângulos.
+# A classe deverá implementar estes métodos:
+#
+# •setTamanho(largura, comprimento): aceita dois valores numéricos
+# como entrada e define o comprimento e largura do retângulo.
+#
+# •perímetro(): retorna o perímetro do retângulo.
+#
+# •área(): retorna a área do retângulo.
 
 
 class Retangulo:

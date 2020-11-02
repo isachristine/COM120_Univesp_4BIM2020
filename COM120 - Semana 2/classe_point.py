@@ -52,10 +52,6 @@ class Point:
         return self.x
 
 
-
-
-
-
 p = Point()
 print(f'P está em: {p}')
 p.move(3, -5)
@@ -64,6 +60,6 @@ q = Point(3, 4)
 print(f'Q está em: {q}')
 q.move(9, -3)
 print(f'Q foi para: {q}')
-print(f'O valor da soma dos pontos P {p} e Q {q} resulta os pontos: {p+q}')
-print(f'Se somarmos 5 no nosso P, de {p} ele vai ser {p+5}')
+print(f'O valor da soma dos pontos P {p} e Q {q} resulta os pontos: {p + q}')
+print(f'Se somarmos 5 no nosso P, de {p} ele vai ser {p + 5}')
 print(f'O valor de x no ponto P é {p.getx()}')
