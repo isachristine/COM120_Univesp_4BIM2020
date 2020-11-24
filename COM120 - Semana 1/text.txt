@@ -1,0 +1,4 @@
+Esta é a primeira linha! Ainda a primeira linha... 
+Agora estamos na segunda linha.
+Valor não de string como 5 deve ser convertido primeiro.
+Valor não de string como 5 deve ser convertido primeiro. 
