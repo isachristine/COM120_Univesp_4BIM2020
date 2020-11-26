@@ -5,7 +5,7 @@
 
 
 def readFile(filename):
-    infile = open(filename, 'r') # Abre arquivo recebido pela func, para leit
+    infile = open(filename, 'r') # Abre arquivo recebido pela aula20, para leit
     content = infile.read() # Lê o arquivo e salva na var content
     infile.close() # Fecha o arquivo
     wordList = content.split() # cria uma lista e insere o content, com split
@@ -19,7 +19,7 @@ def writeFile(insertText):
 
 
 n_words, n_chars = readFile('example.txt')
-# solicita núm de palavras e caracteres do texto 'example.txt', via func readFile
+# solicita núm de palavras e caracteres do texto 'example.txt', via aula20 readFile
 print(f'O texto possui {n_chars} caracteres e {n_words} palavras.')
 
 
